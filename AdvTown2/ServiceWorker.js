@@ -1,9 +1,9 @@
 const cacheName = "Chao-AdvTown2-1.0";
 const contentToCache = [
     "Build/AdvTown2.loader.js",
-    "Build/AdvTown2.framework.js.unityweb",
-    "Build/AdvTown2.data.unityweb",
-    "Build/AdvTown2.wasm.unityweb",
+    "Build/AdvTown2.framework.js",
+    "Build/AdvTown2.data",
+    "Build/AdvTown2.wasm",
     "TemplateData/style.css"
 
 ];
